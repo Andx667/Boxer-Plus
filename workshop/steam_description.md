@@ -11,7 +11,7 @@
 
 ## Features
 
-- **BWA3 Spike LR on the Boxer IFV** — replaces the Titan AT missile on the IFV, including the Sand, Winter, AUS and Medical variants. After launch you get the missile's TV camera and steer it with the mouse; the missile follows a lofted flight profile. Loadout stays 2 + 2, and the launcher flaps open and close as before.
+- **BWA3 Spike LR on the Boxer IFV** — replaces the Titan AT missile on the IFV, including the Sand, Winter and AUS variants. After launch you get the missile's TV camera and steer it with the mouse; the missile follows a lofted flight profile. Loadout stays 2 + 2, and the launcher flaps open and close as before.
 - **BWA3 crews** — Panzertruppe crew in the Woodland / Winter Boxers, tropical crew in the Sand ones, and a BWA3 medic (Sanitäter) crewing the Medical. The AUS Boxers keep the vanilla crew.
 - **BWA3 Puma inventory** — the HMG, GMG, IFV and RCH155 carry the Puma's cargo: G36 and MG4 ammo, DM25 / DM32 grenades, G36 and MG4 with pointer, 2 PzF 3 Tandem and first aid kits. The Medical and the AUS Boxers are excluded.
 - **Rear view (proof of concept)** — using ACE's viewports, look at the ramp from a passenger seat to see the Boxer's reverse camera. On the Medical only the commander and medic seats have it; the RCH155 does not.
