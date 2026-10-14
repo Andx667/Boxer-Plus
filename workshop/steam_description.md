@@ -19,7 +19,7 @@
 Fully open-source. Bug reports, feature requests, and contributions are all welcome.
 
 [GitHub Repository](https://github.com/Andx667/Boxer-Plus)
-[Report an Issue](https://github.com/Andx667/Boxer-Plus/issues)
+[Report an Issue](https://github.com/Andx667/Boxer-Plus/issues)  
 [Discord](https://discord.gg/ag4v6kxYAa)
 
 Licensed under [MIT](https://github.com/Andx667/Boxer-Plus/blob/main/LICENSE).
@@ -27,4 +27,3 @@ Licensed under [MIT](https://github.com/Andx667/Boxer-Plus/blob/main/LICENSE).
 ---
 
 Suchst du eine deutschsprachige Arma3 und Reforger Community? -> https://tacticalteam.de/mitmachen
-

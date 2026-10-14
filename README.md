@@ -25,8 +25,8 @@ __Boxer +__ (BXP) is a patch for the workshop mod [GTK Boxer](https://steamcommu
 
 The project is entirely __open-source__ and any contributions are welcome.
 
-Steam Workshop: <https://steamcommunity.com/sharedfiles/filedetails/?id=3819297677>
-Discord: <https://discord.gg/ag4v6kxYAa>
+Steam Workshop: <https://steamcommunity.com/sharedfiles/filedetails/?id=3819297677>  
+Discord: <https://discord.gg/ag4v6kxYAa>  
 
 ## Features
 
@@ -47,4 +47,3 @@ For new contributors, see the [Contributing Setup & Guidelines](./.github/CONTRI
 ## License
 
 Boxer + is licensed under [MIT](./LICENSE).
-
