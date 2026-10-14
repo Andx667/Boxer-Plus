@@ -1,0 +1,12 @@
+[default]
+workshop = [
+    "450814997",  # CBA_A3
+    "463939057",  # ACE3
+    "3780478952", # GTK Boxer
+    "1200127537", # BWMod (BWA3, Spike LR / MELLS)
+    "3499977893", # Advanced Developer Tools
+]
+parameters = [
+    "-noPause",
+    "-noPauseAudio",
+]
