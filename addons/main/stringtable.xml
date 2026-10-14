@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="boxer_acespike">
+<Project name="bxp">
     <Package name="main">
-        <Key ID="STR_boxer_acespike_main_displayName">
-            <English>GTK Boxer - BWA3 Spike &amp; Crews</English>
+        <Key ID="STR_bxp_main_displayName">
+            <English>Boxer +</English>
         </Key>
     </Package>
 </Project>

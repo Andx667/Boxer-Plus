@@ -1,7 +1,7 @@
-name = "GTK Boxer - BWA3 Spike & Crews"
+name = "Boxer +"
 author = "Andx"
-prefix = "boxer_acespike"
-mainprefix = "andx"
+prefix = "bxp"
+mainprefix = "x"
 
 [version]
 path = "addons/main/script_version.hpp"
@@ -16,5 +16,7 @@ include = [
     "mod.cpp",
     "meta.cpp",
     "LICENSE",
+    "img/icon_ca.paa",
+    "img/logo_ca.paa",
     "README.md",
 ]

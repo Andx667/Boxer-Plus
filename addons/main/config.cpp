@@ -4,7 +4,7 @@ class CfgPatches {
     class ADDON {
         name = COMPONENT_NAME;
         author = AUTHOR;
-        url = "https://github.com/Andx667/boxer_acespike";
+        url = "https://github.com/Andx667/Boxer-Plus";
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {"cba_main", "Hawks_GTK_Boxer", "bwa3_mells", "bwa3_units", "ace_missileguidance", "ace_viewports"};
         units[] = {};
@@ -18,7 +18,7 @@ class CfgFunctions {
     class Hawks {
         class Lights {
             class spikeLoop {
-                file = "\andx\boxer_acespike\addons\main\scripts\fn_spikeLoop.sqf";
+                file = "\x\bxp\addons\main\scripts\fn_spikeLoop.sqf";
             };
         };
     };

@@ -13,9 +13,9 @@ jobs:
         uses: SethCohen/github-releases-to-discord@v1.19.0
         with:
           webhook_url: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          username: "GTK Boxer - BWA3 Spike & Crews - Release Bot"
+          username: "Boxer + - Release Bot"
           avatar_url: ""
           content: "||<@&1556219251327762533>||"
-          footer_title: "GTK Boxer - BWA3 Spike & Crews"
+          footer_title: "Boxer +"
           footer_icon_url: ""
           footer_timestamp: true

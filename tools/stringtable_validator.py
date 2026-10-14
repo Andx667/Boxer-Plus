@@ -26,7 +26,7 @@ import xml.etree.ElementTree as ET
 
 
 ######## GLOBALS #########
-PROJECT_NAME = "boxer_acespike"
+PROJECT_NAME = "bxp"
 ##########################
 
 

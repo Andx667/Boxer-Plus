@@ -1,23 +1,23 @@
-# GTK Boxer - BWA3 Spike & Crews
+# Boxer +
 
 <p align="center">
-    <a href="https://github.com/Andx667/boxer_acespike/issues">
-        <img src="https://img.shields.io/github/issues-raw/Andx667/boxer_acespike.svg?style=flat-square&label=Issues" alt="GTK Boxer - BWA3 Spike & Crews Issues">
+    <a href="https://github.com/Andx667/Boxer-Plus/issues">
+        <img src="https://img.shields.io/github/issues-raw/Andx667/Boxer-Plus.svg?style=flat-square&label=Issues" alt="Boxer + Issues">
     </a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3819297677">
-        <img src="https://img.shields.io/steam/downloads/3819297677.svg?style=flat-square&label=Downloads" alt="GTK Boxer - BWA3 Spike & Crews Downloads">
+        <img src="https://img.shields.io/steam/downloads/3819297677.svg?style=flat-square&label=Downloads" alt="Boxer + Downloads">
     </a>
-    <a href="https://github.com/Andx667/boxer_acespike/blob/main/LICENSE">
-        <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="GTK Boxer - BWA3 Spike & Crews License">
+    <a href="https://github.com/Andx667/Boxer-Plus/blob/main/LICENSE">
+        <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="Boxer + License">
     </a>
     <br>
-    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/boxer_acespike/check.yml?style=flat-square&label=Check" alt="Check">
-    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/boxer_acespike/validate.yml?style=flat-square&label=Validate" alt="Validate">
+    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/Boxer-Plus/check.yml?style=flat-square&label=Check" alt="Check">
+    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/Boxer-Plus/validate.yml?style=flat-square&label=Validate" alt="Validate">
 </p>
 
 __Requires__ [GTK Boxer](https://steamcommunity.com/sharedfiles/filedetails/?id=3780478952), [BWMod (BWA3)](https://steamcommunity.com/sharedfiles/filedetails/?id=1200127537), [CBA_A3](https://github.com/CBATeam/CBA_A3) and [ACE3](https://github.com/acemod/ACE3).
 
-__GTK Boxer - BWA3 Spike & Crews__ (BAS) is a patch for the workshop mod [GTK Boxer](https://steamcommunity.com/sharedfiles/filedetails/?id=3780478952) by Hawkeye that brings BWA3 content onto the Boxer.
+__Boxer +__ (BXP) is a patch for the workshop mod [GTK Boxer](https://steamcommunity.com/sharedfiles/filedetails/?id=3780478952) by Hawkeye that brings BWA3 content onto the Boxer.
 
 The project is entirely __open-source__ and any contributions are welcome.
 
@@ -26,7 +26,7 @@ Discord: <https://discord.gg/ag4v6kxYAa>
 
 ## Features
 
-- **Spike LR:** replaces the Titan AT missile on `Hawks_GTK_Boxer_IFV` (and its Sand / Snow / AUS / Medical variants) with BWA3's MELLS Spike LR (`bwa3_land_spikeLR_atgm`, magazine `bwa3_mells_spikeLR_2rnd_puma`): TV camera after launch, mouse-aimed in flight, lofted flight profile. Loadout stays 2 + 2.
+- **Spike LR:** replaces the Titan AT missile on `Hawks_GTK_Boxer_IFV` (and its Sand / Snow / AUS variants) with BWA3's MELLS Spike LR (`bwa3_land_spikeLR_atgm`, magazine `bwa3_mells_spikeLR_2rnd_puma`): TV camera after launch, mouse-aimed in flight, lofted flight profile. Loadout stays 2 + 2.
 - **Crews:** Woodland / Winter use `BWA3_Crew_Fleck`, Sand uses `BWA3_Crew_Tropen`, the Medical uses `BWA3_Medic_Fleck` / `BWA3_Medic_Tropen`. AUS keeps the vanilla `B_crew_F`.
 - **Rear view:** ACE viewports framework. Passengers look at the ramp to see the Boxer's reverse camera. On the Medical only the commander and medic seats get it; not on the RCH155. Proof of concept.
 - `Hawks_fnc_spikeLoop` is overridden: same flap / fire-lock logic, watching the BWA3 weapon.
@@ -42,5 +42,5 @@ For new contributors, see the [Contributing Setup & Guidelines](./.github/CONTRI
 
 ## License
 
-GTK Boxer - BWA3 Spike & Crews is licensed under [MIT](./LICENSE).
+Boxer + is licensed under [MIT](./LICENSE).
 

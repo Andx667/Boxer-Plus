@@ -1,6 +1,6 @@
-#define MAINPREFIX andx
-#define PREFIX boxer_acespike
-#define MOD_NAME GTK Boxer - BWA3 Spike & Crews
+#define MAINPREFIX x
+#define PREFIX bxp
+#define MOD_NAME Boxer +
 #define AUTHOR "Andx"
 
 #define REQUIRED_VERSION 2.18

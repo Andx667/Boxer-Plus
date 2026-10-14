@@ -1,6 +1,6 @@
-# GTK Boxer - BWA3 Spike & Crews
+# Boxer +
 
-**GTK Boxer - BWA3 Spike & Crews** (BAS) is a small patch for [GTK Boxer](https://steamcommunity.com/sharedfiles/filedetails/?id=3780478952) by Hawkeye that brings BWA3 content onto the Boxer.
+**Boxer +** (BXP) is a small patch for [GTK Boxer](https://steamcommunity.com/sharedfiles/filedetails/?id=3780478952) by Hawkeye that brings BWA3 content onto the Boxer.
 
 # Requirements
 
@@ -18,11 +18,11 @@
 
 Fully open-source. Bug reports, feature requests, and contributions are all welcome.
 
-[GitHub Repository](https://github.com/Andx667/boxer_acespike)
-[Report an Issue](https://github.com/Andx667/boxer_acespike/issues)
+[GitHub Repository](https://github.com/Andx667/Boxer-Plus)
+[Report an Issue](https://github.com/Andx667/Boxer-Plus/issues)
 [Discord](https://discord.gg/ag4v6kxYAa)
 
-Licensed under [MIT](https://github.com/Andx667/boxer_acespike/blob/main/LICENSE).
+Licensed under [MIT](https://github.com/Andx667/Boxer-Plus/blob/main/LICENSE).
 
 ---
 
