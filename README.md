@@ -1,6 +1,10 @@
 # Boxer +
 
 <p align="center">
+    <img src="./img/logo.png" alt="Boxer + Logo" width="600">
+</p>
+
+<p align="center">
     <a href="https://github.com/Andx667/Boxer-Plus/issues">
         <img src="https://img.shields.io/github/issues-raw/Andx667/Boxer-Plus.svg?style=flat-square&label=Issues" alt="Boxer + Issues">
     </a>
