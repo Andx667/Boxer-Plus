@@ -8,7 +8,7 @@
     <a href="https://github.com/Andx667/Boxer-Plus/issues">
         <img src="https://img.shields.io/github/issues-raw/Andx667/Boxer-Plus.svg?style=flat-square&label=Issues" alt="Boxer + Issues">
     </a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3819544764;">
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3819544764">
         <img src="https://img.shields.io/steam/downloads/3819297677.svg?style=flat-square&label=Downloads" alt="Boxer + Downloads">
     </a>
     <a href="https://github.com/Andx667/Boxer-Plus/blob/main/LICENSE">
