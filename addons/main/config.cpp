@@ -6,7 +6,7 @@ class CfgPatches {
         author = AUTHOR;
         url = "https://github.com/Andx667/Boxer-Plus";
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"cba_main", "Hawks_GTK_Boxer", "bwa3_mells", "bwa3_units", "ace_missileguidance", "ace_viewports"};
+        requiredAddons[] = {"cba_main", "Hawks_GTK_Boxer", "bwa3_mells", "bwa3_units", "bwa3_puma", "ace_missileguidance", "ace_viewports"};
         units[] = {};
         weapons[] = {};
         magazines[] = {};

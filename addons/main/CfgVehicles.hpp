@@ -14,6 +14,49 @@ class CfgVehicles {
         crew = "BWA3_Crew_Fleck";
         typicalCargo[] = {"BWA3_Crew_Fleck"};
 
+        // Inventory copied from the BWA3 Puma (BWA3_Puma_base). The Medical and the AUS
+        // variants are reset further down.
+        class TransportMagazines {
+            class _xx_BWA3_30Rnd_556x45_G36 {
+                magazine = "BWA3_30Rnd_556x45_G36";
+                count = 24;
+            };
+            class _xx_BWA3_200Rnd_556x45 {
+                magazine = "BWA3_200Rnd_556x45";
+                count = 6;
+            };
+            class _xx_BWA3_DM25 {
+                magazine = "BWA3_DM25";
+                count = 10;
+            };
+            class _xx_BWA3_DM32_Orange {
+                magazine = "BWA3_DM32_Orange";
+                count = 8;
+            };
+        };
+
+        class TransportWeapons {
+            class _xx_BWA3_G36KA2_RSAS_pointer {
+                weapon = "BWA3_G36KA2_RSAS_pointer";
+                count = 2;
+            };
+            class _xx_BWA3_MG4_ZO4x30_pointer {
+                weapon = "BWA3_MG4_ZO4x30_pointer";
+                count = 1;
+            };
+            class _xx_BWA3_PzF3_Tandem_Loaded {
+                weapon = "BWA3_PzF3_Tandem_Loaded";
+                count = 2;
+            };
+        };
+
+        class TransportItems {
+            class _xx_FirstAidKit {
+                name = "FirstAidKit";
+                count = 10;
+            };
+        };
+
         // ACE viewports: rear view for the troop compartment, fed by the Boxer's own
         // reverse camera point (pip2_pos, same as the RevCam render target).
         // No type = periscope strip with a wide 0.75 field of view (type "screen" is a
@@ -95,6 +138,10 @@ class CfgVehicles {
         crew = "BWA3_Medic_Fleck";
         typicalCargo[] = {"BWA3_Medic_Fleck"};
 
+        // No Puma inventory on the Medical: its own TransportItems (first aid, Medikit) stay.
+        class TransportMagazines {};
+        class TransportWeapons {};
+
         // Rear view only for the commander and medic turret seats (the three cargo
         // seats are patient places), from further away: those seats are further from
         // the ramp than the troop bench. Roles: commander turret = "commander", medic
@@ -112,16 +159,25 @@ class CfgVehicles {
         typicalCargo[] = {"BWA3_Medic_Tropen"};
     };
 
-    // AUS keeps the vanilla crew
+    // AUS keeps the vanilla crew and the empty vanilla inventory
     class Hawks_GTK_Boxer_HMG_AUS: Hawks_GTK_Boxer_HMG {
+        class TransportMagazines {};
+        class TransportWeapons {};
+        class TransportItems {};
         crew = "B_crew_F";
         typicalCargo[] = {"B_crew_F"};
     };
     class Hawks_GTK_Boxer_GMG_AUS: Hawks_GTK_Boxer_GMG {
+        class TransportMagazines {};
+        class TransportWeapons {};
+        class TransportItems {};
         crew = "B_crew_F";
         typicalCargo[] = {"B_crew_F"};
     };
     class Hawks_GTK_Boxer_IFV_AUS: Hawks_GTK_Boxer_IFV {
+        class TransportMagazines {};
+        class TransportWeapons {};
+        class TransportItems {};
         crew = "B_crew_F";
         typicalCargo[] = {"B_crew_F"};
     };
@@ -130,6 +186,9 @@ class CfgVehicles {
         typicalCargo[] = {"B_crew_F"};
     };
     class Hawks_GTK_Boxer_RCH155_AUS: Hawks_GTK_Boxer_RCH155 {
+        class TransportMagazines {};
+        class TransportWeapons {};
+        class TransportItems {};
         crew = "B_crew_F";
         typicalCargo[] = {"B_crew_F"};
     };

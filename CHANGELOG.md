@@ -20,6 +20,7 @@ version, and start a fresh empty [Unreleased] section above it. -->
 - BWA3 MELLS Spike LR (`bwa3_land_spikeLR_atgm`) replaces the Titan AT on the Boxer IFV and its Sand / Snow / AUS / Medical variants: TV camera after launch, mouse-aimed in flight, lofted flight profile. Loadout stays 2 + 2.
 - BWA3 crews: `BWA3_Crew_Fleck` (Sand: `BWA3_Crew_Tropen`) on HMG, GMG, IFV and RCH155; `BWA3_Medic_Fleck` (Sand: `BWA3_Medic_Tropen`) on the Medical. AUS keeps `B_crew_F`.
 - ACE viewports rear view (proof of concept): passengers look at the ramp to see the Boxer's reverse camera. The IFV uses its cargo seats (4 m reach), the HMG / GMG use their passenger turret seats (6 m), the Medical only the commander and medic seats (6 m). Not on the RCH155.
+- BWA3 Puma cargo inventory (rifle and MG4 ammo, DM25 / DM32 grenades, G36 and MG4 with pointer, 2 PzF 3 Tandem, 10 first aid kits) on the HMG, GMG, IFV and RCH155 and their Sand / Snow variants. The Medical keeps its own first aid kits and Medikits, AUS keeps the empty vanilla inventory.
 
 ### Changed
 
