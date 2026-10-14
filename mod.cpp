@@ -11,5 +11,5 @@ overview		= "Gives the GTK Boxer (Hawkeye) the BWA3 MELLS Spike LR with mouse-gu
 hideName		= 0;						// Hide the extension name
 hidePicture		= 0;						// Hide the extension menu
 logoSmall		= "img\icon_ca.paa";			// Display in creative lists
-dlcColor[]		= { 0.23, 0.39, 0.30, 1 };	// Color used for DLC stripes and backgrounds (RGBA)
+dlcColor[]		= { 1, 0.588, 0.118, 1 };	// Color used for DLC stripes and backgrounds (RGBA)
 
